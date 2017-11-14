@@ -1,6 +1,6 @@
 # Happy Kidz
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Happy Kidz Logo](https://lh4.googleusercontent.com/7sXz74NcSG7Mts6JVBAaGkaTAUvxy6j9WoV1tzdQxSb2XvzY6vLmpXBkchPKM0pWsXtgxV3aVx54Pzjy-Hi1=w1920-h902)
 
 ## Σκοπός του συστήματος
 
