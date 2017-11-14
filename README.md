@@ -1,5 +1,6 @@
 # Happy Kidz
-<br>
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## Σκοπός του συστήματος
 
