@@ -1,6 +1,6 @@
 # Happy Kidz
 
-![Happy Kidz Logo](https://lh4.googleusercontent.com/7sXz74NcSG7Mts6JVBAaGkaTAUvxy6j9WoV1tzdQxSb2XvzY6vLmpXBkchPKM0pWsXtgxV3aVx54Pzjy-Hi1=w1920-h902)
+![Happy Kidz Logo](https://files.slack.com/files-tmb/T7H7CCZ2L-F818ALTB8-7d8723536f/happy_kidz_logo_720.png)
 
 ## Σκοπός του συστήματος
 
